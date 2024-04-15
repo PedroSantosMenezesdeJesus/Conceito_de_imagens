@@ -24,9 +24,15 @@ Densidade das cores
 a quantidade tons que a matriz reproduz na tela, quanto maior a quantidade de tons maior, melhor o detalhamento de cores na exibição da imagem.
 O pixel é o elemento responsável pela reproduçãodas cores na tela, é composto do vermelho, verde e azul, e com essas cores é possível reproduzir várias donalidades de cores nas imagens, vídeos ou até na tela inicial do seu celular, Pc e em todo o resto do aparelho eletrônico através de algoritimos como FRC ou Dithering Temporal.
 
+Modelos de cores
+os modelos de cores são CMYK que é usado em impressões são ciano(c), margenta(M), amarelo(Y) e preto(k), RGB usa os componentes vermelho (R), verde (G) e azul (B) com cada componente sendo um número entre 0 e 255 para se fazer uma cor uníca. 
+O HSB usa matiz(H), saturação(S) e brilho(B) como componentes para definir as cores,matiz são os pigmentos que definem em graus como vermelho é 0 grau, amarelo é 60 graus, verde é 120 graus, ciano é 180 graus, azul é 240 graus e magenta é 300 graus, a saturação descreve a vivacidade de uma cor de 0 a 100 em porcentagem (quando maior mais vivida é a cor), o brilho descreve a quantidade de branco na cor, como os valores de saturação, os valores são de 0 a 100 em porcentagem (quanto maior mais brilhante a cor)
+
 https://muraltecno.com/blog/profundidade-de-cor-bits-tela-tv-monitor/
 
 https://www.quoos.com.br/index.php/cursos/desenhista-de-topografia/cartografia/sensoriamento-remoto/fundamentos-da-imagem-digital/37-as-diferenca-entre-imagem-raster-e-imagem-vetor#:~:text=Em%20computa%C3%A7%C3%A3o%20gr%C3%A1fica%2C%20uma%20imagem,ou%20mesmo%20no%20seu%20celular.
 https://tecnoblog.net/responde/o-que-e-um-pixel/
 https://www.avmakers.com.br/blog/introducao-a-imagem-digital#:~:text=O%20que%20%C3%A9%20a%20imagem,processamento%20possam%20ser%20feitos%20eletronicamente.
 https://conceito.de/imagem-digital
+https://product.corel.com/help/CorelDRAW/540240626/Main/BR/Doc/wwhelp/wwhimpl/common/html/wwhelp.htm?context=CorelDRAW_Help&file=CorelDRAW-Understanding-color-models.html
+
