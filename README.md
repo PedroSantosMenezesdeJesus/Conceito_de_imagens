@@ -8,7 +8,6 @@ A interpretação da imagem é feita  por um software, que vai mostrar a imagem 
 
 PIXEL 
 pixel é a menor unidade de uma imagem, se você dar um zomm em uma foto por exemplo, você verá vários quadradinhos bem pequenos. Cada deles é um pixel. Tem milhões ou milhares deles em uma única foto por exemplo.
-O pixel só tem três cores o vermelho, verde e azul, cada pixel tem uma dessas cores em tonalidades diferentes e com a junção de vários pixels nós conseguimos ver outras cores nas imagens, vídeos ou até na tela inicial do seu celular, Pc e em todo o resto do aparelho eletrônico.
 
 Raster 
 Uma imagem raster ou gráfico de bitmap nada mais é do que uma matriz de pontos, que é uma grade retangular de pixels, que podem ser visualizados no celular, computador entre outros 
@@ -23,7 +22,7 @@ Cores
 
 Densidade das cores 
 a quantidade tons que a matriz reproduz na tela, quanto maior a quantidade de tons maior, melhor o detalhamento de cores na exibição da imagem.
-O pixel é o elemento responsável pela reproduçãodas cores na tela, é composto do vermelho, verde e azul, e com essas cores é possível reproduzir várias donalidades através de algoritimos como FRC ou Dithering Temporal.
+O pixel é o elemento responsável pela reproduçãodas cores na tela, é composto do vermelho, verde e azul, e com essas cores é possível reproduzir várias donalidades de cores nas imagens, vídeos ou até na tela inicial do seu celular, Pc e em todo o resto do aparelho eletrônico através de algoritimos como FRC ou Dithering Temporal.
 
 https://muraltecno.com/blog/profundidade-de-cor-bits-tela-tv-monitor/
 
