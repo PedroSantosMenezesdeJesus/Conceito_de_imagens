@@ -6,6 +6,7 @@ imagem digital
 É uma imagem bidimensional que com vários códigos podem ser armazenado, transferido, imprimido,  entre várias coisas eletronicamente.
 A interpretação da imagem é feita  por um software, que vai mostrar a imagem em um display, como a tela do celular.
 
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/45c73981-ecff-490b-853a-84b05d89e9cb)
 ![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/4c9e0f61-334e-4b34-ac60-38678a6f96d6)
 
 
