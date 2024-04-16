@@ -38,10 +38,12 @@ Cores
 Densidade das cores 
 a quantidade tons que a matriz reproduz na tela, quanto maior a quantidade de tons maior, melhor o detalhamento de cores na exibição da imagem.
 O pixel é o elemento responsável pela reproduçãodas cores na tela, é composto do vermelho, verde e azul, e com essas cores é possível reproduzir várias donalidades de cores nas imagens, vídeos ou até na tela inicial do seu celular, Pc e em todo o resto do aparelho eletrônico através de algoritimos como FRC ou Dithering Temporal.
+
 ![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/94873ed8-1ca2-4b9e-9210-9f9bc081f57f)
 
 Modelos de cores
 os modelos de cores são CMYK que é usado em impressões são ciano(c), margenta(M), amarelo(Y) e preto(k). 
+
 ![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/8e5dd507-f50a-472c-ba43-dca5fee49c9f)
 
 RGB usa os componentes vermelho (R), verde (G) e azul (B) com cada componente sendo um número entre 0 e 255 para se fazer uma cor uníca. 
