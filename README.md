@@ -33,6 +33,7 @@ RGB usa os componentes vermelho (R), verde (G) e azul (B) com cada componente se
 ![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/5a687051-7657-4e33-b46e-27dd78b7c2fc)
 
 O HSB usa matiz(H), saturação(S) e brilho(B) como componentes para definir as cores,matiz são os pigmentos que definem em graus como vermelho é 0 grau, amarelo é 60 graus, verde é 120 graus, ciano é 180 graus, azul é 240 graus e magenta é 300 graus, a saturação descreve a vivacidade de uma cor de 0 a 100 em porcentagem (quando maior mais vivida é a cor), o brilho descreve a quantidade de branco na cor, como os valores de saturação, os valores são de 0 a 100 em porcentagem (quanto maior mais brilhante a cor)
+
 ![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/d767d74c-2811-4e02-8088-271c89ab8aa6)
 
 
