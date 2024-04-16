@@ -6,8 +6,14 @@ imagem digital
 É uma imagem bidimensional que com vários códigos podem ser armazenado, transferido, imprimido,  entre várias coisas eletronicamente.
 A interpretação da imagem é feita  por um software, que vai mostrar a imagem em um display, como a tela do celular.
 
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/4c9e0f61-334e-4b34-ac60-38678a6f96d6)
+
+
 PIXEL 
 pixel é a menor unidade de uma imagem, se você dar um zomm em uma foto por exemplo, você verá vários quadradinhos bem pequenos. Cada deles é um pixel. Tem milhões ou milhares deles em uma única foto por exemplo.
+
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/842cf3f0-29b3-43a6-8de4-03806e47556d)
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/f48a373a-5a0b-421e-9699-f9af8903fb4e)
 
 Raster 
 Uma imagem raster ou gráfico de bitmap nada mais é do que uma matriz de pontos, que é uma grade retangular de pixels, que podem ser visualizados no celular, computador entre outros 
