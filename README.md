@@ -12,8 +12,14 @@ pixel é a menor unidade de uma imagem, se você dar um zomm em uma foto por exe
 Raster 
 Uma imagem raster ou gráfico de bitmap nada mais é do que uma matriz de pontos, que é uma grade retangular de pixels, que podem ser visualizados no celular, computador entre outros 
 
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/7be0fc24-4acc-40b7-bb3c-43038b6b0db4)
+
+
 Vetor
 Um imagem vetorial transforma os pixels em linhas, curvas, retângulo,circulos, entre outras formas (polígonos) e pode modificar cada uma delas separadamente como mudar de cor, rotacionar, mover, sua espessura, preenchimento. Cada um deles possui pontos com uma posição definida sobre eixos X e Y do plano de trabalho.
+
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/c893a6e5-0831-462c-87b9-22fdef0c7c9f)
+
 
 comparação de uma imagem Raster e Vetorial. Como a raster tem pixels quando é ampliada perde a nitidez, enquanto a Vetorial pode ampliar a imagem mas a qualidade é a mesma. As imagens raster são imagens fotográficas, ou de satélites. Já as imagens vetoriais são mais simples, sendo utilizadas em desenhos técnicos e mapas.
 Fontes:
