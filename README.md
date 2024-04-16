@@ -23,10 +23,18 @@ Cores
 Densidade das cores 
 a quantidade tons que a matriz reproduz na tela, quanto maior a quantidade de tons maior, melhor o detalhamento de cores na exibição da imagem.
 O pixel é o elemento responsável pela reproduçãodas cores na tela, é composto do vermelho, verde e azul, e com essas cores é possível reproduzir várias donalidades de cores nas imagens, vídeos ou até na tela inicial do seu celular, Pc e em todo o resto do aparelho eletrônico através de algoritimos como FRC ou Dithering Temporal.
+https://www.videomaker.com/wp-content/uploads/drpl/articles/19251/372%20C02%20Shooting%20secondary.png
 
 Modelos de cores
-os modelos de cores são CMYK que é usado em impressões são ciano(c), margenta(M), amarelo(Y) e preto(k), RGB usa os componentes vermelho (R), verde (G) e azul (B) com cada componente sendo um número entre 0 e 255 para se fazer uma cor uníca. 
+os modelos de cores são CMYK que é usado em impressões são ciano(c), margenta(M), amarelo(Y) e preto(k). 
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/8e5dd507-f50a-472c-ba43-dca5fee49c9f)
+
+RGB usa os componentes vermelho (R), verde (G) e azul (B) com cada componente sendo um número entre 0 e 255 para se fazer uma cor uníca. 
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/5a687051-7657-4e33-b46e-27dd78b7c2fc)
+
 O HSB usa matiz(H), saturação(S) e brilho(B) como componentes para definir as cores,matiz são os pigmentos que definem em graus como vermelho é 0 grau, amarelo é 60 graus, verde é 120 graus, ciano é 180 graus, azul é 240 graus e magenta é 300 graus, a saturação descreve a vivacidade de uma cor de 0 a 100 em porcentagem (quando maior mais vivida é a cor), o brilho descreve a quantidade de branco na cor, como os valores de saturação, os valores são de 0 a 100 em porcentagem (quanto maior mais brilhante a cor)
+![image](https://github.com/PedroSantosMenezesdeJesus/Conceito_de_imagens/assets/160974855/d767d74c-2811-4e02-8088-271c89ab8aa6)
+
 
 https://muraltecno.com/blog/profundidade-de-cor-bits-tela-tv-monitor/
 
